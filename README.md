@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Aspiring Junior Full Stack Web Developer
 
 - 🔭 I’m currently working on React Native.
 - 🌱 I’m currently learning GraphQL,MongoDB ..
