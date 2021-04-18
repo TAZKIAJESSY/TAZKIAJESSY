@@ -29,8 +29,8 @@ Aspiring Junior Full Stack Web Developer
 <a href="https://getbootstrap.com/"> <img align="left" alt="Bootstrap" title="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" /> </a>
 
 
-For my final project of the Codaisseur Academy I created Lekker-Cuisine. Lekker-Cuisine is an. I am currently working on a web version of the app.
+For my final project of the Codaisseur Academy I created Lekker-Cuisine. Lekker-Cuisine is a cooking app characterized by distinctive ingredients, techniques and dishes, and usually associated with a specific culture or geographic region. For me Cooking is an absolutely special process. Some see this as a highly artistic event, while for others it’s just a daily routine. Yet, no matter on which side you are — cooking app development is something that can help lots of people. So helping people more elaborately this app consists of shopping list of missing ingredients for a specific cuisine, a user want to try. This will encourage people to use the application more frequently (not only when they’re preparing food but also during shopping).. I am currently working on a web version of the app.
 
-You can find more information on this project here.
+You can find more information on this project [here](https://github.com/TAZKIAJESSY/lekker-cuisine-frontend).
 
 
