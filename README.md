@@ -4,8 +4,8 @@
 
 Aspiring Junior Full Stack Web Developer
 
-- 🔭 I’m currently working on React Native.
-- 🌱 I’m currently learning GraphQL,MongoDB ..
+- 🔭 I’m currently working on Scrum Master PSM1 Certification.
+- 🌱 I’m currently learning Agile,Scrum and Organizational Skills ..
 - ⚡  Fun fact: 24/7 busy :)
 -    Background: Electrical Engineering 
      - worked as a research analyst as well as a junior lecturer 
